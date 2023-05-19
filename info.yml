@@ -5,12 +5,6 @@ project:
   identities:
     pivotal:
       url: 'https://www.pivotaltracker.com/n/projects/2242320'
-    heroku:
-      url: 'https://eagle-testing.herokuapp.com/'
-    travis:
-      url: 'https://travis-ci.org/github/cesgarpas/eagle-testing'
-    codeclimate:
-      url: 'https://codeclimate.com/github/cesgarpas/eagle-testing'
   members:
     member1:
       name: 'Cesar'
