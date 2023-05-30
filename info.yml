@@ -5,6 +5,8 @@ project:
   identities:
     pivotal: 'https://www.pivotaltracker.com/n/projects/2487566'
     heroku: 'https://goldenflow-showcase-project.herokuapp.com/'
+  notifications:
+    slack_enc: U2FsdGVkX1+dW1tVfZHRrVSiVHmHUEZB5TJORcp9FtZLdjurIrdeeovxBVvCxf2xxoKyES141ep3QbPnq4nw3sMj/HzGcL9FaOGMRFnlcxQQHGsZthSeIyq9ZJ0Dpcf5RCZvQxCYNw/ftjbz8B+AfA==
   members:
     member1:
       name: 'Manuel'
